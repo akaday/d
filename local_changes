@@ -2,3 +2,7 @@
 git add .
 git commit -m "Review and update documentation"
 git push origin main
+
+# Follow the guidelines to commit and push any local changes
+# Ensure that the documentation is up-to-date
+# Use environment variables securely by following best practices
