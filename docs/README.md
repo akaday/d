@@ -26,6 +26,25 @@ A brief description of the project.
    .\project_executable
    ```
 
+## Python Automation Setup and Usage
+### Setup
+1. Ensure Python is installed on your system.
+2. Run the Python setup script to set up the Python environment:
+   ```
+   .\scripts\python_setup.bat
+   ```
+
+### Usage
+1. Open a command prompt or terminal.
+2. Navigate to the project directory:
+   ```
+   cd d
+   ```
+3. Run the Python automation script:
+   ```
+   python automation\user_data_automation.py
+   ```
+
 ## Contributing
 We welcome contributions! Please follow these guidelines:
 1. Fork the repository.
