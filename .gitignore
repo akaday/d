@@ -1,0 +1,5 @@
+# .gitignore
+*.lib
+*.bat
+*.exe
+*.txt
